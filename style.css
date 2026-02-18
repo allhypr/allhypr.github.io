@@ -130,7 +130,7 @@ p {
 }
 
 .sandwichimg {
-    width: auto;
+    width: 100%;
     height: auto;
     opacity: 0.6;
     object-fit: cover;
@@ -163,4 +163,5 @@ ol {
 d1 {
     margin: 0px;
     padding: 0px;
+
 }
